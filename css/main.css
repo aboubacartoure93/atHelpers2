@@ -2057,8 +2057,8 @@ input[type="submit"] {
 .btn-accent,
 .wc-proceed-to-checkout .checkout-button,
 .form-submit [type="submit"] {
-	background-color: #54be73;
-	border-color: #54be73;
+	background-color: #76BD17;
+	border-color: #76BD17;
 }
 
 .theme_buttons.color1 a:hover, .theme_buttons.color1 a:focus, .theme_buttons.color1 a:active,
@@ -3568,7 +3568,7 @@ div.ppt {
 	font-size: 0;
 	color: transparent;
 	color: #ffffff;
-	background-color: #54be73;
+	background-color: #76BD17;
 	border-radius: 50%;
 }
 
@@ -4996,7 +4996,7 @@ body.boxed {
 .response,
 .highlight {
 	color: #54be73;
-	border-color: #54be73;
+	border-color: #76BD17;;
 }
 
 .highlight2 {
@@ -5182,7 +5182,7 @@ body.boxed {
 }
 
 .main_bg_color {
-	background-color: #54be73;
+	background-color: #76BD17;
 }
 
 .main_bg_color2 {
@@ -7396,7 +7396,7 @@ body.active-side-header.slide-right .page_header_side {
 }
 
 .ls a {
-	color: #54be73;
+	color: #76BD17;
 }
 
 .intro {
@@ -7416,7 +7416,7 @@ body.active-side-header.slide-right .page_header_side {
 }
 
 .ls .highlight {
-	color: #54be73;
+	color: #76BD17;
 }
 
 .ls .highlight2 {
@@ -7496,7 +7496,7 @@ body.active-side-header.slide-right .page_header_side {
 }
 
 .ls .no_bg_button.color1 {
-	color: #54be73;
+	color: #76BD17;
 }
 
 .ls .no_bg_button.color2 {
@@ -7581,7 +7581,7 @@ body.active-side-header.slide-right .page_header_side {
 }
 
 .ls.ms .main_bg_color {
-	background-color: #54be73;
+	background-color: #76BD17;
 }
 
 .ls.ms .main_bg_color2 {
@@ -7957,7 +7957,7 @@ body.active-side-header.slide-right .page_header_side {
 }
 
 .ds .highlight {
-	color: #54be73;
+	color: #76BD17;
 }
 
 .ds .highlight2 {
@@ -8493,7 +8493,7 @@ body.active-side-header.slide-right .page_header_side {
 }
 
 .ds .theme_button {
-	color: #54be73;
+	color: #76BD17;
 	border-color: #ffffff;
 	background-color: #ffffff;
 }
@@ -8531,8 +8531,8 @@ body.active-side-header.slide-right .page_header_side {
 
 .ds .theme_button.color1 {
 	color: #ffffff;
-	border-color: #54be73;
-	background-color: #54be73;
+	border-color: #76BD17;
+	background-color: #76BD17;
 }
 
 .ds .theme_button.color2 {
@@ -8585,7 +8585,7 @@ body.active-side-header.slide-right .page_header_side {
 }
 
 .cs {
-	background-color: #54be73;
+	background-color: #76BD17;
 	color: #dedede;
 }
 
@@ -9528,7 +9528,7 @@ section .intro_section .slide_description_wrapper {
 
 	.header_white .sf-menu > li > a:hover,
   .header_white .sf-menu > li.active > a {
-		color: #54be73;
+		color: #76BD17;
 	}
 
 	.header_white .sf-menu > li + li:before {

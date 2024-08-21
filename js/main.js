@@ -484,9 +484,9 @@ function windowLoadInit() {
 				$form[0].reset();
 			}
 		})
-		.fail(function( data ) {
-			jQuery($form).find('[type="submit"]').attr('disabled', false).parent().append('<span class="contact-form-respond highlight">Mail cannot be sent. You need PHP server to send mail.</span>');
-		})
+		// .fail(function( data ) {
+		// 	jQuery($form).find('[type="submit"]').attr('disabled', false).parent().append('<span class="contact-form-respond highlight">Mail cannot be sent. You need PHP server to send mail.</span>');
+		// })
 	});
 
 
