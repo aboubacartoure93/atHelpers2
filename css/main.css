@@ -569,7 +569,7 @@ form label + [class*="fa-"] {
 	position: absolute;
 	font-size: 14px;
 	left: 15px;
-	top: 13px;
+	top: 13px;  /*icons for forms */
 	width: 1em;
 	text-align: center;
 }
@@ -597,6 +597,7 @@ form .with_icon:focus + [class*="icon2-"] {
 }
 
 label {
+	display: none; /*icons for forms */
 	font-weight: inherit;
 }
 
