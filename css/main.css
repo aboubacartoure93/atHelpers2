@@ -11034,7 +11034,7 @@ widget_mailchimp
 	margin: 0;
 	position: absolute;
 	right: 0;
-	top: 0;
+	top: -14px;
 	height: 40px;
 	width: 40px;
 	border: none;
