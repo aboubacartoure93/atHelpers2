@@ -597,7 +597,7 @@ form .with_icon:focus + [class*="icon2-"] {
 }
 
 label {
-	display: none; /*icons for forms */
+	display: none; /*icons for forms    */
 	font-weight: inherit;
 }
 
