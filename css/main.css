@@ -2043,7 +2043,7 @@ input[type="submit"] {
 	display: inline-block;
 	text-align: center;
 	color: #ffffff;
-	display: ruby;
+	display: ruby-text;;
 	border: none;
 	background-color: #1f232b;
 	border-radius: 3px;
